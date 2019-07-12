@@ -1,6 +1,16 @@
 [
   {
     "id": 1,
+    "name": "CrownClothing",
+    "url": "",
+    "role": "Individual Project",
+    "content": "React E-commerce app",
+    "date": "July 2019",
+    "image": "img/no_image.webp",
+    "code": "https://github.com/rx7dev/crwn-clothing"
+  },
+  {
+    "id": 2,
     "name": "Website",
     "url": "https://rx7dev.github.io/website/",
     "role": "Individual Project",
@@ -10,7 +20,7 @@
     "code": "https://github.com/rx7dev/website"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "TakaStream2",
     "url": "http://takastream2.herokuapp.com",
     "role": "Individual Project",
@@ -18,16 +28,6 @@
     "date": "Dec 2018",
     "image": "img/takastream2.webp",
     "code": "https://github.com/rx7dev/takastream2"
-  },
-  {
-    "id": 3,
-    "name": "TakaStream",
-    "url": "http://takastream.herokuapp.com",
-    "role": "Individual Project",
-    "content": "React.js | REST API | Semantic UI",
-    "date": "Dec 2018",
-    "image": "img/takastream.webp",
-    "code": "https://github.com/rx7dev/takastream"
   },
   {
     "id": 4,
